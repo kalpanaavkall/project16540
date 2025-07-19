@@ -1,1 +1,2 @@
 # project16540
+The dataset consists of 2,000 entries and 7 columns, which are collected to monitor plant stress under varying conditions. Data was collected over 9 days, every 5 minutes, across morning, afternoon, and evening sessions. The system captured a wide range of signals, including bioelectrical responses, volatile organic compound (VOC) emissions, and environmental conditions (e.g., light, temperature, and soil moisture).
